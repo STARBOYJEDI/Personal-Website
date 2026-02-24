@@ -18,7 +18,7 @@ section {
     background: #008cff;
 }
 
-.wave {
+.wave-1 {
     position: absolute;
     top: 0;
     left: 0;
@@ -27,25 +27,111 @@ section {
     line-height: 0;
 }
 
-.wave svg {
+.wave-1 svg {
     position: relative;
     display: block;
-    width: calc(100% + 1.3px);
-    height: 274px;
+    width: calc(116% + 1.3px);
+    height: 231px;
 }
 
-.wave .shape-fill {
-    fill: #009EFF;
+.wave-1 .shape-fill {
+    fill: #00CBFF;
 }
 
-.red {
-    background: #ff0011;
+.wave-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.wave-2 svg {
+    position: relative;
+    display: block;
+    width: calc(135% + 1.3px);
+    height: 340px;
+}
+
+.wave-2 .shape-fill {
+    fill: #008CFF;
+}
+
+.dark-blue {
+    background: #006dc7;
+}
+
+.wave-3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.wave-3 svg {
+    position: relative;
+    display: block;
+    width: calc(116% + 1.3px);
+    height: 231px;
+}
+
+.wave-3 .shape-fill {
+    fill: #006dc7;
+}
+
+
+.purple {
+    background: #1300b9;
+}
+
+.wave-4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.wave-4 svg {
+    position: relative;
+    display: block;
+    width: calc(116% + 1.3px);
+    height: 231px;
+}
+
+.wave-4 .shape-fill {
+    fill: #1300b9;
+}
+
+
+.light-purple {
+    background: #431af4;
+}
+
+.wave-5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.wave-5 svg {
+    position: relative;
+    display: block;
+    width: calc(116% + 1.3px);
+    height: 231px;
+}
+
+.wave-5 .shape-fill {
+    fill: #431af4;
 }
 
 .pink {
-    background: #ff00e1;
-}
-
-.dark {
-    background: #202731;
+    background: #6200ff;
 }
