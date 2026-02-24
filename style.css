@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background: #202731;
+}
+
+section {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 400px;
+    padding: 100px 20vw;
+}
+
+.blue {
+    background: #008cff;
+}
+
+.red {
+    background: #ff0011;
+}
+
+.pink {
+    background: #ff00e1;
+}
+
+.dark {
+    background: #202731;
+}
