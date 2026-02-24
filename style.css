@@ -135,3 +135,77 @@ section {
 .pink {
     background: #6200ff;
 }
+
+.wave-6 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.wave-6 svg {
+    position: relative;
+    display: block;
+    width: calc(116% + 1.3px);
+    height: 231px;
+}
+
+.wave-6 .shape-fill {
+    fill: #6200ff;
+}
+
+
+.double-pink {
+    background: #ff0077;
+}
+
+.wave-7 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.wave-7 svg {
+    position: relative;
+    display: block;
+    width: calc(116% + 1.3px);
+    height: 231px;
+}
+
+.wave-7 .shape-fill {
+    fill: #ff0077;
+}
+
+
+.red {
+    background: #ff0037;
+}
+
+.wave-8 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.wave-8 svg {
+    position: relative;
+    display: block;
+    width: calc(116% + 1.3px);
+    height: 231px;
+}
+
+.wave-8 .shape-fill {
+    fill: #ff0037;
+}
+
+.orange {
+    background: #570a00;
+}
